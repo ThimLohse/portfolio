@@ -9,7 +9,9 @@ thumbnail: thesis.jpeg
 alt: image-alt
 project-date: June 2017
 client: Start Bootstrap
+link: http://www.diva-portal.org/smash/record.jsf?pid=diva2:1181205
+link_desc: Publication on DiVa
 category: iOS development and IoT
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: lorem epsum
 
 ---
