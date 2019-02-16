@@ -8,10 +8,9 @@ img: thesis.jpeg
 thumbnail: thesis.jpeg
 alt: image-alt
 project-date: June 2017
-client: Start Bootstrap
+client: KTH
 link: http://www.diva-portal.org/smash/record.jsf?pid=diva2:1181205
 link_desc: Publication on DiVa
 category: iOS development and IoT
-description: lorem epsum
-
+description: Jag utförde under våren 2017 ett fristående examensarbete på grundnivå som del av civilingenjörsprogrammet på KTH. Arbetets syfte var att utforska möjligheterna av kartor inomhus för retail och stora varuhus med hjälp av bluetooth beacons. Fokus låg på att effektivisera processen av att hitta varor, samt få ytterligare om dessa varor. En iOS applikation utvecklades med funktionerna navigering och lokalisering inomhus, samt möjlighet att skanna streckkoder för få mer information om en produkt och dess lagerstatus. Applikationen testades i mindre kvalitativa tester i form av vanliga scenarior inom retail och visade lovande resultat för hur denna typ av teknologi kan effektivera köpprocessen.  
 ---

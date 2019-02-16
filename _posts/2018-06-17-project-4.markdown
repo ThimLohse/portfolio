@@ -10,5 +10,5 @@ alt: image-alt
 project-date: February 2019
 client: SEB
 category: Machine Learning
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: SEB är en av Nordens största banker med cirka 4 000 000 privatkunder. Det pågår kontinuerligt ett arbete med att undersöka nya sätt att förbättra existerande modeller relaterade till kreditvärdighet och risker hos kunder. Jag har i rollen som Data Scientist i uppgift utforska mönster i transaktionsdata för att undersöka komplement till de existerande metoderna för kreditriskanalys.
 ---

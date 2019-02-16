@@ -10,5 +10,5 @@ alt: image-alt
 project-date: February 2019
 client: Self
 category: Fullstack Development, IoT
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Internet of Things, IoT, är en växande trend inom många industrier. Jag har självständigt utvecklat en applikation som kan användas för att med röstkommandon styra uppkopplade produkter och tjänster i hemmet. 
 ---

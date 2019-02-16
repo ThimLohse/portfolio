@@ -12,5 +12,5 @@ client: Spotify
 link: https://github.com/ThimLohse/spotify-devx-2018
 link_desc: Github Repository
 category: Web Development
-description:
+description: Spotify är ett svenskt multinationellt företag och en av de största aktörerna att erbjuda en streamingtjänst för musik. Varje år bjuds en utvald skara studenter in för att använda sin kreativitet och tekniska kunnande för att under en helg skapa nya innovativa applikationer med Spotifys API. Jag arbetade som backendutvecklare och skapade tillsammans med min grupp en musikdelningsplattform online.
 ---

@@ -10,5 +10,5 @@ alt: image-alt
 project-date: December 2018
 client: Start Bootstrap
 category: Backend Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: asqill är ett litet svenskt startup grundat på KTH Innovation med mål bygga en bättre relation mellan studenter och företag under studietiden. När användarantalet växte behövdes ett verktyg för att möjliggöra ett enkelt sätt att skicka informativa mail till alla sina medlemmar. Jag har i rollen som utvecklare skapat en integration mellan företagets databas över användare och Mailchimps mailtjänst. Idag används tjänsten för att enkelt skicka skräddarsydda mailkampanjer till alla användare. 
 ---
