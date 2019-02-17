@@ -4,6 +4,7 @@ subtitle: Spotify DevX 2018
 layout: default
 modal-id: 4
 date: 2017-06-16
+misc: React.js, JSON, Css, Spotify API, Node.js, Express, yarn, npm, Atom, Heroku
 img: hackathon.jpg
 thumbnail: hackathon.jpg
 alt: image-alt
@@ -12,5 +13,5 @@ client: Spotify
 link: https://github.com/ThimLohse/spotify-devx-2018
 link_desc: Github Repository
 category: Web Development
-description: Spotify är ett svenskt multinationellt företag och en av de största aktörerna att erbjuda en streamingtjänst för musik. Varje år bjuds en utvald skara studenter in för att använda sin kreativitet och tekniska kunnande för att under en helg skapa nya innovativa applikationer med Spotifys API. Jag arbetade som backendutvecklare och skapade tillsammans med min grupp en musikdelningsplattform online.
+description: Spotify is a Swedish multinational company and one of the largest players to offer a streaming service for music. Each year, a select number of students are invited to use their creativity and technical know-how to create new innovative applications with the Spotify API during a weekend. I worked as a backend developer and together with my group created a music sharing platform online.
 ---

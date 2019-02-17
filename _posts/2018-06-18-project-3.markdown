@@ -4,11 +4,12 @@ subtitle: Backend Development
 layout: default
 modal-id: 3
 date: 2017-06-20
+misc: Mailchimp, Node.js, MongoDB, Javascript, Integration
 img: asqill.png
 thumbnail: asqill.png
 alt: image-alt
 project-date: December 2018
-client: Start Bootstrap
+client: asqill
 category: Backend Web Development
-description: asqill är ett litet svenskt startup grundat på KTH Innovation med mål bygga en bättre relation mellan studenter och företag under studietiden. När användarantalet växte behövdes ett verktyg för att möjliggöra ett enkelt sätt att skicka informativa mail till alla sina medlemmar. Jag har i rollen som utvecklare skapat en integration mellan företagets databas över användare och Mailchimps mailtjänst. Idag används tjänsten för att enkelt skicka skräddarsydda mailkampanjer till alla användare. 
+description: asqill is a small Swedish startup that started at KTH Innovation. Their goal is to build a better relationship between students and companies during the students' time at school. This is done by offering work experiences relative to their fields of study. When the number of users grew, a tool was needed to enable an easy way to send informative mail to all their members. In the role of developer I have created an integration between the company's database of users and Mailchimps mail service. Today, the service is used to easily send customized mail campaigns to all users.
 ---

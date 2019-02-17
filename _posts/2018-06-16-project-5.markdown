@@ -4,11 +4,12 @@ subtitle: Hobby Project
 layout: default
 modal-id: 1
 date: 2017-06-25
+misc: JavaScript, React, Firebase, MongoDB, Node.js, Express, Raspberry Pi, IoT, Git
 img: hobby.jpeg
 thumbnail: hobby.jpeg
 alt: image-alt
 project-date: February 2019
-client: Self
+client: None
 category: Fullstack Development, IoT
-description: Internet of Things, IoT, är en växande trend inom många industrier. Jag har självständigt utvecklat en applikation som kan användas för att med röstkommandon styra uppkopplade produkter och tjänster i hemmet. 
+description: The Internet of Things, IoT, is a growing trend in many industries. I have independently developed an application that can be used to control connected products and services in the home with voice commands. During this project I have familiarised myself with both front-end frameworks such as React as well as back-end frameworks with Node.js, Express and MongoDB amongst them.
 ---

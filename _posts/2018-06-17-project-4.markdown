@@ -4,11 +4,12 @@ subtitle: Machine Learning in Banking
 layout: default
 modal-id: 2
 date: 2017-06-22
+misc: Python, Finance, Transaction, Data Analysis, Research, Machine Learning
 img: thesis.jpeg
 thumbnail: thesis.jpeg
 alt: image-alt
 project-date: February 2019
 client: SEB
 category: Machine Learning
-description: SEB är en av Nordens största banker med cirka 4 000 000 privatkunder. Det pågår kontinuerligt ett arbete med att undersöka nya sätt att förbättra existerande modeller relaterade till kreditvärdighet och risker hos kunder. Jag har i rollen som Data Scientist i uppgift utforska mönster i transaktionsdata för att undersöka komplement till de existerande metoderna för kreditriskanalys.
+description: SEB is one of the largest banks in the Nordic region with approximately 4,000,000 private customers. The company is, amongst other things, carrying out ongoing work investigating new ways to improve existing models related to creditworthiness and risks in customers. In the role of Data Scientist, I have the task of exploring patterns in transaction data to investigate possible complements to the existing methods for credit risk analysis.
 ---

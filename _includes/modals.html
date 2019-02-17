@@ -18,20 +18,26 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a >{{ post.client }}</a>
+                                    <strong>{{ post.client }}
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a >{{ post.project-date }}</a>
+                                    <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a >{{ post.category }}</a>
+                                    <strong>{{ post.category }}
                                     </strong>
                                 </li>
+                                {% assign link = post.link_desc | strip_newlines %}
+                                {% if link != ""  %}
                                 <li>Link:
                                     <strong><a href="{{ post.link }}">{{ post.link_desc }}</a>
                                     </strong>
+                                </li>
+                                {% endif %}
+                                <li>
+                                  Keywords: <i>{{ post.misc }}</i>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
