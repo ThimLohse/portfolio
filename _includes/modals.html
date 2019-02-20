@@ -32,7 +32,7 @@
                                 {% assign link = post.link_desc | strip_newlines %}
                                 {% if link != ""  %}
                                 <li>Link:
-                                    <strong><a href="{{ post.link }}">{{ post.link_desc }}</a>
+                                    <strong><a href="{{ post.link }}" target='_blank'>{{ post.link_desc }}</a>
                                     </strong>
                                 </li>
                                 {% endif %}
